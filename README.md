@@ -1,1 +1,2 @@
-# Ejercicio-Backend
+# ejercicios-backend
+Ejercicios para entrevistas
